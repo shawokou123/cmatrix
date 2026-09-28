@@ -135,6 +135,16 @@ _To get the program to look most like the Win/Mac screensaver, use `cmatrix -ol`
 <img src="./data/img/capture_orig.gif" alt="cmatrix screencast">
 </p>
 
+#### :small_blue_diamond: Omarchy Linux Translucent Terminal Demo (半透明终端效果)
+
+<p align="center">
+  <a href="./cmatrix.mp4">
+    <img src="./data/img/cmatrix-omarchy-demo.gif" alt="cmatrix on Omarchy Linux translucent terminal" width="720">
+  </a>
+  <br>
+  <em>▶️ 完整运行演示视频（支持透明毛玻璃背景）：<a href="./cmatrix.mp4">cmatrix.mp4</a></em>
+</p>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## :zap: Maintainers
